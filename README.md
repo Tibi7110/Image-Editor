@@ -1,16 +1,16 @@
 // 312CA Chirila Tiberiu Andrei
     
     The program is given an image and a variety of functions from stdin
-like: load, save, crop, apply, equalize, histogram, rotate,
-select, select all and exit. Each function is applied on the image or
-is exiting with an error code corresponding to the error appeared.
+    like: load, save, crop, apply, equalize, histogram, rotate,
+    select, select all and exit. Each function is applied on the image or
+    is exiting with an error code corresponding to the error appeared.
 
     The images are readed from a file (text or binary) and are stored in
-a dinamically allocated matrix type of data and deallocated once the program is
-finished.
+    a dinamically allocated matrix type of data and deallocated once the program is
+    finished.
 
     The functions are applied on the image and the result is stored in a new
-image. The new image is stored in a file (text or binary) and the memory is deallocated.
+    image. The new image is stored in a file (text or binary) and the memory is deallocated.
 
   How the program works:
   -The program reads the input from stdin.
@@ -20,8 +20,8 @@ image. The new image is stored in a file (text or binary) and the memory is deal
   -The program deallocates the memory.
 
     The program is structured in functions and each function has a specific role
-and is called in the main function. The functions are described in the following 
-lines.
+    and is called in the main function. The functions are described in the following 
+    lines.
 
     The program is structured in the following way:
 
