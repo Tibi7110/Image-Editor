@@ -1,5 +1,6 @@
 <p align="center">Image editor</p>
 
+## 
 ****This is a basic CLI image editor.****
 
 Technologies used: dynamic memory allocation, file operations, pointers.
@@ -20,6 +21,8 @@ It is composed of two programs:
  - git clone https://github.com/Tibi7110/Image-Editor.git
  - cd Image-Editor
  - make
+
+##
 
 **Old README:**
       
