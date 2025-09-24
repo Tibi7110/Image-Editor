@@ -1,3 +1,19 @@
+This is a basic CLI image editor.
+
+Technologies used: dynamic memory allocation, file operations, pointers.
+  It is composed of two programs:
+
+    -convert.c - This program converts a JPEG image to PNG format, making it compatible for further operations in the next program.
+    -image_check.c - This program performs multiple operations on an image, including: 
+      -Reading the image.
+      -Saving the image.
+      -Zooming in on the image.
+      -Applying multiple filters.
+      -Rotating the image. 
+      -Performing the read, zoom-in, and filter operations on a selected region of the image only.
+
+Old README:
+      
 // 312CA Chirila Tiberiu Andrei
     
     The program is given an image and a variety of functions from stdin
