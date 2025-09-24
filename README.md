@@ -7,13 +7,14 @@ It is composed of two programs:
               making it compatible for further operations in the next program.
   
   ***image_check.c*** - This program performs multiple operations on an image, including: 
-
+ ```
       - Reading the image.
       - Saving the image.
       - Zooming in on the image.
       - Applying multiple filters.
       - Rotating the image. 
       - Performing the read, zoom-in, and filter operations on a selected region of the image only.
+ ```
 
 **Old README:**
       
