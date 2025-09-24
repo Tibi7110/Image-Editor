@@ -19,7 +19,7 @@ It is composed of two programs:
 ## How to use:
  - git clone https://github.com/Tibi7110/Image-Editor.git
  - cd Image-Editor
- - make check
+ - make
 
 **Old README:**
       
