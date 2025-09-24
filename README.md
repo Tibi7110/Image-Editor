@@ -4,6 +4,7 @@ Technologies used: dynamic memory allocation, file operations, pointers.
   It is composed of two programs:
 
   convert.c - This program converts a JPEG image to PNG format, making it compatible for further operations in the next program.
+  
   image_check.c - This program performs multiple operations on an image, including: 
       -Reading the image.
       -Saving the image.
