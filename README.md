@@ -16,7 +16,7 @@ It is composed of two programs:
       -Performing the read, zoom-in, and filter operations on a selected region of the image only.
 
 **Old README:**
-      ceva
+      
 // 312CA Chirila Tiberiu Andrei
     
     The program is given an image and a variety of functions from stdin
