@@ -1,3 +1,5 @@
+<p align="center">Image editor</p>
+
 ****This is a basic CLI image editor.****
 
 Technologies used: dynamic memory allocation, file operations, pointers.
@@ -13,6 +15,11 @@ It is composed of two programs:
  - Applying multiple filters.
  - Rotating the image.
  - Performing the read, zoom-in, and filter operations on a selected region of the image only.
+
+## How to use:
+ - git clone https://github.com/Tibi7110/Image-Editor.git
+ - cd Image-Editor
+ - make check
 
 **Old README:**
       
